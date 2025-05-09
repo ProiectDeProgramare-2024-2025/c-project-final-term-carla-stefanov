@@ -1,0 +1,250 @@
+What is the capital of France?
+Paris
+London
+Berlin
+0
+What is 2 + 2?
+3
+4
+5
+1
+Which planet is known as the Red Planet?
+Venus
+Mars
+Jupiter
+1
+What is the largest ocean on Earth?
+Atlantic
+Indian
+Pacific
+2
+Who wrote 'Romeo and Juliet'?
+Charles Dickens
+William Shakespeare
+Mark Twain
+1
+What is the powerhouse of the cell?
+Nucleus
+Mitochondria
+Ribosome
+1
+Which element has the chemical symbol 'O'?
+Oxygen
+Gold
+Osmium
+0
+What is the tallest mountain in the world?
+K2
+Mount Everest
+Kilimanjaro
+1
+How many continents are there on Earth?
+5
+6
+7
+2
+Who painted the Mona Lisa?
+Pablo Picasso
+Leonardo da Vinci
+Vincent van Gogh
+1
+What is the smallest prime number?
+0
+1
+2
+2
+Which gas do plants absorb from the atmosphere?
+Oxygen
+Carbon Dioxide
+Nitrogen
+1
+How many legs does a spider have?
+6
+8
+10
+1
+What is the capital of Japan?
+Beijing
+Seoul
+Tokyo
+2
+What is the longest river in the world?
+Amazon
+Nile
+Yangtze
+1
+Which country is famous for the Great Wall?
+India
+China
+Russia
+1
+What is the freezing point of water in Celsius?
+0
+32
+100
+0
+Which organ pumps blood through the body?
+Lungs
+Heart
+Liver
+1
+Who discovered gravity?
+Albert Einstein
+Isaac Newton
+Galileo Galilei
+1
+What is the capital of Italy?
+Madrid
+Paris
+Rome
+2
+Which instrument has black and white keys?
+Violin
+Flute
+Piano
+2
+What does 'www' stand for in a website URL?
+World Wide Web
+Wireless Web World
+Web World Wide
+0
+Which metal is liquid at room temperature?
+Gold
+Mercury
+Silver
+1
+What is the main ingredient in guacamole?
+Tomato
+Avocado
+Onion
+1
+Which planet is closest to the Sun?
+Earth
+Mars
+Mercury
+2
+What do bees collect from flowers?
+Honey
+Nectar
+Pollen
+1
+Which mammal can fly?
+Bat
+Squirrel
+Hawk
+0
+How many sides does a hexagon have?
+4
+5
+6
+2
+Who was the first president of the USA?
+Abraham Lincoln
+George Washington
+John Adams
+1
+What is the capital of Canada?
+Toronto
+Ottawa
+Vancouver
+1
+Which gas do humans breathe in to survive?
+Oxygen
+Carbon Dioxide
+Nitrogen
+0
+What is the fastest land animal?
+Cheetah
+Lion
+Horse
+0
+What is the currency of the UK?
+Euro
+Dollar
+Pound
+2
+What color is a sapphire gemstone usually?
+Green
+Blue
+Red
+1
+What is the chemical symbol for gold?
+Au
+Ag
+Fe
+0
+Which country gave the Statue of Liberty to the USA?
+Germany
+France
+Italy
+1
+What is the boiling point of water in Celsius?
+0
+100
+212
+1
+How many bones are in the adult human body?
+202
+206
+210
+1
+Which fairy tale character leaves a glass slipper behind?
+Snow White
+Cinderella
+Ariel
+1
+Which planet is known for its rings?
+Venus
+Saturn
+Uranus
+1
+What is the capital of Australia?
+Sydney
+Canberra
+Melbourne
+1
+How many players are in a standard soccer team?
+9
+10
+11
+2
+Which bird is the symbol of peace?
+Hawk
+Dove
+Eagle
+1
+What is the chemical formula for water?
+CO2
+H2O
+O2
+1
+Which war was fought between the North and South in the USA?
+Revolutionary War
+Civil War
+World War I
+1
+Who invented the lightbulb?
+Nikola Tesla
+Thomas Edison
+Alexander Graham Bell
+1
+What is the capital of Germany?
+Munich
+Berlin
+Frankfurt
+1
+Which sea creature has eight legs?
+Octopus
+Crab
+Lobster
+0
+What is the name of the fairy in Peter Pan?
+Tinker Bell
+Wendy
+Aurora
+0
+What is the only continent where coffee grows naturally?
+Africa
+South America
+Asia
+0
